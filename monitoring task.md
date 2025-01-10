@@ -1,0 +1,11 @@
+Install Prometheus and Grafana on a Linux EC2 machine, connect Prometheus to Grafana, and create a dashboard to view metrics.
+![mtask1](https://github.com/user-attachments/assets/6ada1781-0efb-4dff-8a73-01ef8eca8d54)
+![mtask2](https://github.com/user-attachments/assets/9dfef8dc-c361-4da9-bae2-a0319708af60)
+![mtask3](https://github.com/user-attachments/assets/8fb55dff-e526-42d8-a1c4-0518234815b1)
+![nodeexporter1](https://github.com/user-attachments/assets/af3b949e-c906-40cb-96df-19c9930fed37)
+![nodeexporter2](https://github.com/user-attachments/assets/6e171bdd-14cc-45d0-a438-23c91f2d5d67)
+![nodeexporter3](https://github.com/user-attachments/assets/4abaa3be-9f47-4566-b1db-e62e47c767a6)
+![nodeexporter4](https://github.com/user-attachments/assets/2ce034f1-9fc7-4b8e-b5e3-9677f1047ce5)
+![grafana1](https://github.com/user-attachments/assets/333a30a4-5183-4539-9345-614388aaf7dc)
+![grafana2](https://github.com/user-attachments/assets/9714b222-b1e7-4604-8497-c77d81bbfb0e)
+![grafana3](https://github.com/user-attachments/assets/175f9885-e9d4-4f57-acfc-613797d0ee92)
